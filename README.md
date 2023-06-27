@@ -16,7 +16,7 @@ Hello, fellow developers! I'm **Aaryav Sethi**, a passionate Software Engineer w
 - 📱 Enthusiastic about Android app development.
 
 
-**Have a look at my various projects in my profile.**
+**Have a look at my various projects in my profile and my portfolio : https://aaryav2810.github.io/My-Portfolio/**
 
 ## 💼 Professional Experience
 - 🌍 Intern at Barco Electronics Pvt Ltd 🇧🇪
