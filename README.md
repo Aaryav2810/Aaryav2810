@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hello, fellow developers! I'm **Aaryav Sethi**, a passionate Software Engineer with expertise in C/C++, Java, Python, and Web Development. Welcome to my GitHub realm, where I weave code into elegant and efficient solutions.
+Hello, fellow developers! I'm **Aaryav Sethi**, a passionate Software Developer with expertise in C/C++, Java, Python, and Web Development. Welcome to my GitHub realm, where I weave code into elegant and efficient solutions.
 
 ## 🌟 Status: Active and Curious! 🚀
 
