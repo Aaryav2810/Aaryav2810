@@ -3,6 +3,8 @@
 
 Hello, fellow developers! I'm **Aaryav**, a passionate Software Engineer with expertise in C/C++, Java, Python, and Web Development. Welcome to my GitHub realm, where I weave code into elegant and efficient solutions.
 
+## 🌟 Status: Active and Curious! 🚀
+
 ## About Me 🚀
 
 - 💻 Final year student at NIT KKR, pursuing a degree in Electronics and Communication Engineering (ECE).
@@ -16,6 +18,13 @@ Hello, fellow developers! I'm **Aaryav**, a passionate Software Engineer with ex
 
 **Have a look at my various projects in my profile.**
 
+## 💼 Professional Experience
+- 🌍 Intern at Barco Electronics Pvt Ltd 🇧🇪
+- 🔧 Contributed to real-world large-scale product, merging over 50 PRs.
+- 🐛 Fixed bugs, resolved issues, and implemented new features.
+- 🚀 Followed Agile methodologies for efficient software development.
+- 📋 Completed a remarkable 78 story points in just 5 months! 🎉
+
 ## Social Activities 🌟
 
 In addition to my technical pursuits, I actively engage in various social activities:
@@ -27,7 +36,7 @@ In addition to my technical pursuits, I actively engage in various social activi
 
 - 📫 How to reach me: aaryavsethi@gmail.com or https://www.linkedin.com/in/aaryav-sethi-0865b715a/
 - 😄 Pronouns: He/Him
-- ⚡ Fun Fact: Marvel Fan 
+- ⚡ Fun Fact: Successful Build is a vibe and I love vibing.
 
 Feel free to explore my repositories and contribute to any open-source projects that resonate with you. If you have any questions or would like to collaborate, don't hesitate to reach out.
 
