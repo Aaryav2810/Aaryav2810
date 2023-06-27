@@ -20,7 +20,7 @@ Hello, fellow developers! I'm **Aaryav Sethi**, a passionate Software Engineer w
 
 ## 💼 Professional Experience
 - 🌍 Intern at Barco Electronics Pvt Ltd 🇧🇪
-- 🔧 Contributed to real-world large-scale product, merging over 50 PRs.
+- 🔧 Contributed to real-world large-scale product **New UI release of XMS-Cloud**, merging over 50 PRs.
 - 🐛 Fixed bugs, resolved issues, and implemented new features.
 - 🚀 Followed Agile methodologies for efficient software development.
 - 📋 Completed a remarkable 78 story points in just 5 months! 🎉
